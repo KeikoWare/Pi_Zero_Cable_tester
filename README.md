@@ -20,4 +20,5 @@ Testing different net-device console cables like Cisco, Osman, crossover and rol
   7 Osman (sub D)
   
   8 HP (sub D)
+  
 ---------------------
